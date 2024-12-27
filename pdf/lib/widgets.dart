@@ -30,6 +30,7 @@ export 'src/widgets/chart/legend.dart';
 export 'src/widgets/chart/line_chart.dart';
 export 'src/widgets/chart/pie_chart.dart';
 export 'src/widgets/chart/point_chart.dart';
+export 'src/widgets/chart/rose_chart.dart';
 export 'src/widgets/clip.dart';
 export 'src/widgets/container.dart';
 export 'src/widgets/content.dart';
